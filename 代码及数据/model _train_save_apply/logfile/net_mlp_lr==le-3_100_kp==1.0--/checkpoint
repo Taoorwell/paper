@@ -1,0 +1,2 @@
+model_checkpoint_path: "G:\\Paper\\python\\TensorFlow\\test06\\net_mlp_lr==le-3_100_kp==1.0--/my_net.ckpt"
+all_model_checkpoint_paths: "G:\\Paper\\python\\TensorFlow\\test06\\net_mlp_lr==le-3_100_kp==1.0--/my_net.ckpt"
